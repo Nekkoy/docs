@@ -65,14 +65,14 @@
   netstat -nlp | grep 2007
   tcp        0      0 127.0.0.1:2007          0.0.0.0:*               LISTEN      4848/php
 
-Базы данных:
+База данных:
 
 .. code-block:: sh
 
   netstat -nlp | grep 3306
   tcp        0      0 127.0.0.1:3306          0.0.0.0:*               LISTEN      4586/mysqld   
 
-Радиус сервера:
+Радиус сервер:
 
 .. code-block:: sh
 
