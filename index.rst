@@ -1,14 +1,21 @@
-.. mikbill documentation master file, created by
-   sphinx-quickstart on Mon Feb 22 23:36:48 2021.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+Добро пожаловать в документацию MikBiLL
+=========================================
 
-=========================================
-Welcome to mikbill documentation!
-=========================================
+* `Наш сайт <https://mikbill.pro>`_
+* `Оформление багов <https://crm.mikbill.pro>`_
+* `Телеграм канал <https://t.me/ACPMikBiLL>`_
+
+Навигация
+------------
 
 .. toctree::
-	:maxdepth: 2
+	:maxdepth: 5
 	:titlesonly:
 
-	install/index.rst
+	docs/requirements/index.rst
+	docs/install/index.rst
+	docs/faststart/index.rst
+	docs/license/index.rst
+	docs/updates/index.rst
+	docs/changelog/index.rst
+	

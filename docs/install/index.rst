@@ -1,11 +1,11 @@
-================
 Установка
 ================
+
 .. toctree::
-	:maxdepth: 2
+	:maxdepth: 5
 	:titlesonly:
 
-	centos.rst
-	debian.rst
+	centos/index.rst
+	debian/index.rst
 	modules/index.rst
-	postinstall.rst
+	postinstall/index.rst

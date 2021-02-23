@@ -29,7 +29,7 @@ release = '0.1'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['recommonmark', 'sphinx_rtd_theme']
+extensions = ['recommonmark', 'sphinx_diagrams', 'sphinx_rtd_theme']
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -46,6 +46,8 @@ language = 'ru'
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = []
 
+source_suffix = '.rst'
+master_doc = 'index'
 
 # -- Options for HTML output -------------------------------------------------
 
