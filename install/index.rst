@@ -5,7 +5,7 @@
 	:maxdepth: 2
 	:titlesonly:
 
-	centos/index.rst
-	debian/index.rst
+	centos.rst
+	debian.rst
 	modules/index.rst
-	postinstall/index.rst
+	postinstall.rst
